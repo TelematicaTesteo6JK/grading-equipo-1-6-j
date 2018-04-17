@@ -168,6 +168,7 @@ int main()
 
     for(int i=0; i < list.size();i++)
     {
+        cout << list[i];
         outfile<<list[i];
     }
 
