@@ -1,0 +1,34 @@
+valor  resultadoEsperado resultadoObtenido veredicto
+-1            FAIL           FAIL            PASS
+
+100.0            HD           HD            PASS
+
+52.0            P           P            PASS
+
+69.0            C           C            PASS
+
+81.0            D           D            PASS
+
+105.0            FAIL           FAIL            PASS
+
+0.0            N           N            PASS
+
+49.9            N           N            PASS
+
+50.0            P           P            PASS
+
+62.9            P           P            PASS
+
+63.0            C           C            PASS
+
+72.9            C           C            PASS
+
+73.0            D           D            PASS
+
+82.9            D           D            PASS
+
+83.0           HD           HD            PASS
+
+100.0           HD           HD            PASS
+
+100.1            FAIL           FAIL            PASS
